@@ -1,8 +1,7 @@
-h2 {
-  margin-top: 50px;
+.container {
+  padding-top:30px;
   text-align: center;
-}
-button {
   margin: auto;
-  display: block;
+  margin-top: 50px;
+  border: 1px solid #A9A9A9;
 }
